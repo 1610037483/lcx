@@ -199,3 +199,47 @@
     font-size: 25rpx;
     color: #A3A3A3;
   }
+  .newfeel>view:first-child>view:last-child{
+    position: absolute;
+    bottom: 30rpx;
+    left: 30rpx;
+    width: 140rpx;
+    height: 60rpx;
+    text-align: center;
+    line-height: 60rpx;
+    font-size: 27rpx;
+    color: white;
+    background: linear-gradient(to right,#3FBDF5,#83E2DF);
+    border-radius: 30rpx;
+  
+  }
+  .newfeel>view:last-child>image{
+    height: 300rpx;
+  }
+  
+  .app{
+    width: 90%;
+    margin: auto;
+  }
+  .app>view:first-child{
+    margin-bottom: 30rpx;
+  }
+  .app>view:first-child>view:first-child{
+    font-size: 40rpx;
+    font-weight: 600;
+    margin-bottom: 20rpx;
+  }
+  .app>view:first-child>view:last-child{
+    font-size: 26rpx;
+    color: #868686;
+  }
+  .app>view:last-child{
+    justify-content: space-between;
+  }
+  .app .apps{
+    width: 164rpx;
+    height: 280rpx;
+    border-radius: 22rpx;
+    box-shadow: 2rpx 2rpx 20rpx 1rpx rgba(0, 0, 0, 0.068);
+    position: relative;
+  }
