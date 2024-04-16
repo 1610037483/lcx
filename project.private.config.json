@@ -9,7 +9,7 @@
       "list": [
         {
           "name": "pages/my/my",
-          "pathName": "pages/my/my",
+          "pathName": "pages/apply/apply",
           "query": "",
           "launchMode": "default",
           "scene": null
