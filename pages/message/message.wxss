@@ -45,3 +45,11 @@
     font-weight: 900;
     margin-right: 20rpx;
   }
+  /* 导航栏 */
+.barlist{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+  }
+  .barlist>view>view:first-child{
