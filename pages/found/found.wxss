@@ -64,3 +64,31 @@
     font-size: 28rpx;
     text-align: left;
   }
+  .topimg .toptitle>view{
+    font-size: 23rpx;
+  }
+  .topimg .toptitle>view:first-child{         /* >:直接子主键 */
+    font-size: 34rpx;
+    font-weight: 900;
+    margin-bottom: 20rpx;
+  }
+  .topimg .toptitle>view:last-child{
+    margin-top: 10rpx;
+  }
+  
+  .flexbox{
+    display: flex;
+  }
+  /* 通知公告 */
+.new{
+    width: 90%;
+    margin: auto;
+    margin-top: 50rpx;
+  }
+  .new .options{
+    font-size: 28rpx;
+    font-weight: 600;
+  }
+  .new .options>view{
+    margin-left: 30rpx;
+  }
