@@ -23,3 +23,15 @@
     box-shadow: 0px 2px 2px 1px rgba(139, 139, 139, 0.1);
     border-radius: 20rpx;
     margin-left:35rpx;
+}
+.Search .w90>view>image{
+  width: 45rpx;
+  height: 35rpx;
+}
+.Search .w90>view>input{
+  width: 190px;
+  height: 20px;
+  font-size: 18rpx;
+  padding-left:10rpx;
+  border: none; 
+}
