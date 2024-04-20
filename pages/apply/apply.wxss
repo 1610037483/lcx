@@ -6,6 +6,7 @@
   display: flex;
   justify-content: center;
   align-items: center; 
+  background-color: #27E797;
 }
 .Search{
   display: flex;
@@ -13,6 +14,7 @@
   align-items: center; 
   height: 70rpx;
   box-shadow: 2px 2px 2px 1px rgba(139, 139, 139, 0.2);
+  background-color: yellow;
 }
 .Search .w90>view{
   width: 300rpx;
@@ -33,7 +35,7 @@
   height: 20px;
   font-size: 18rpx;
   padding-left:10rpx;
-  border: none; 
+  /* border: none;  */
 }
 .Search .w90>image{
   width: 50rpx;
@@ -63,7 +65,7 @@
   top: -100rpx;
   padding-bottom: 95rpx;
   border-radius: 20rpx;
-  overflow: hidden;
+  
 }
 .things .left>image:first-child{
   width: 180rpx;
@@ -113,10 +115,11 @@
   font-size: 23rpx;
 }
 
-.flexbox{
-  display: flex;
-}
+
 /* 推荐应用 */
+.flexbox{
+    display: flex;
+  }
 .app{
   width: 90%;
   margin: auto;

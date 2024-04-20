@@ -1,12 +1,13 @@
 {
   "pages": [
+    "pages/myself/myself",
     "pages/index/index",
     "pages/logs/logs",
     "pages/my/my",
     "pages/apply/apply",
     "pages/message/message",
-    "pages/found/found",
-    "pages/myself/myself"
+    "pages/found/found"
+    
   ],
   "window": {
     "navigationBarTextStyle": "black",

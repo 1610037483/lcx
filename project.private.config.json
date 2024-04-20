@@ -9,7 +9,7 @@
       "list": [
         {
           "name": "pages/my/my",
-          "pathName": "pages/found/found",
+          "pathName": "pages/myself/myself",
           "query": "",
           "launchMode": "default",
           "scene": null
